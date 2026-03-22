@@ -33,4 +33,4 @@ gtermview.sh <username> # example: gtermview.sh mxcoderr
 2.View Profile and save in json file
 ```bash
 gtermview.sh <username> --json # example gtermview.sh mxcoderr --json
-```bash
+```
