@@ -23,15 +23,15 @@ grep -qxF "export PATH=\"$DIR:\$PATH\"" ~/.bashrc || \
 echo "export PATH=\"$DIR:\$PATH\"" >> ~/.bashrc && \
 source ~/.bashrc
 ```
-Unfortunately gtermview is not supported for windows
-
 ## commands
 
 1.View Profile
 '''
 gtermview.sh <username> # example: gtermview.sh mxcoderr
 '''
+
 2.View Profile and save in json file
+
 '''
 gtermview.sh <username> --json # example gtermview.sh mxcoderr --json
 '''
