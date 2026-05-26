@@ -1,7 +1,7 @@
 # gtermview - tiny tui github viewer written on python
 
 ## installation
-Linux/MacOS(windows not supported):
+Linux/MacOS:
 1. clone this repo:
 ```bash
 git clone https://github.com/mxcoderr/gtermview
